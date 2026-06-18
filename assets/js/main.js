@@ -127,8 +127,8 @@ const EXPERIENCIAS = [
 const EQUIPE = [
   {
     avatar: "👩‍💼",
-    nome: "Estudante 1",
-    papel: "Silas Emmanoel Leandro Lima de Brito",
+    nome: "Silas Emmanoel Leandro Lima de Brito",
+    papel: "Gestão e Administração",
     descricao: "Responsável pelo planejamento, cronograma, relatórios e organização da Mostra Tecnológica."
   },
   {
@@ -145,7 +145,7 @@ const EQUIPE = [
   },
   {
     avatar: "🎓",
-    nome: "Coordenadora",
+    nome: "Maria José Leite Brasiliano",
     papel: "Coordenação Geral",
     descricao: "Maria José Leite Brasiliano — orienta os bolsistas e gerencia o projeto junto à FACEPE."
   }
