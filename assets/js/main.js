@@ -147,7 +147,7 @@ const EQUIPE = [
     avatar: "🎓",
     nome: "Maria José Leite Brasiliano",
     papel: "Coordenação Geral",
-    descricao: "Maria José Leite Brasiliano — orienta os bolsistas e gerencia o projeto junto à FACEPE."
+    descricao: "Maria José Leite Brasiliano orienta os bolsistas e gerencia o projeto junto à FACEPE."
   }
 ];
 
