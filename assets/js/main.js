@@ -29,7 +29,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Explore a biodiversidade única da Caatinga, o único bioma exclusivamente brasileiro, com fauna e flora adaptadas ao semiárido.",
     descricaoCompleta: "A Caatinga cobre cerca de 10% do território brasileiro e é o único bioma exclusivamente nacional. No Sertão do Pajeú, ela se revela em toda sua potência: mandacarus gigantes, xique-xiques, faveleiros e umbuzeiros compõem uma paisagem que parece árida mas pulsa de vida. Esta experiência imersiva foi capturada pelos estudantes da ETE Professora Célia Siqueira durante expedições de campo nas matas do município de São José do Egito.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~5 min",
+    duracao: "~3 min",
     curiosidades: [
       "A palavra 'caatinga' vem do Tupi e significa 'mata branca' — referência ao aspecto das árvores na seca.",
       "Mais de 1.500 espécies de plantas vivem na Caatinga, com altíssimo grau de endemismo.",
@@ -45,7 +45,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Navegue virtualmente pelo Rio Pajeú, artéria hídrica que dá nome à região e sustenta comunidades ao longo de seus 340 km.",
     descricaoCompleta: "O Rio Pajeú nasce na Serra do Pereiro, em Pernambuco, e percorre cerca de 340 quilômetros antes de desaguar no Rio São Francisco. É o principal curso d'água da região e foi determinante para o surgimento e o desenvolvimento de todos os municípios do território. Nesta experiência imersiva, você acompanha as margens do rio em diferentes pontos, conhecendo a importância do ciclo hídrico para a agricultura familiar e para a cultura sertaneja.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~6 min",
+    duracao: "~3 min",
     curiosidades: [
       "O Pajeú é afluente do Rio São Francisco, que é chamado de 'o rio da integração nacional'.",
       "Durante a seca, muitos trechos do rio secam completamente, mas o leito preserva sementes e vida.",
@@ -61,7 +61,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Conheça as práticas agroecológicas das famílias do Pajeú, que produzem alimentos em harmonia com o semiárido.",
     descricaoCompleta: "A agricultura familiar no Sertão do Pajeú é uma demonstração de resiliência e sabedoria. As famílias agricultoras desenvolveram ao longo de gerações técnicas de convivência com o semiárido que hoje são referência: captação de água de chuva, plantio consorciado, adubação orgânica e escolha de variedades nativas adaptadas. Esta experiência imersiva visita propriedades rurais do município e registra a relação profunda entre as pessoas e a terra.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~7 min",
+    duracao: "~3 min",
     curiosidades: [
       "A cisterna de placa é uma das tecnologias sociais mais bem-sucedidas do semiárido: capta até 16 mil litros de água.",
       "O sistema de barragem subterrânea aproveita a água que fica retida no subsolo após as chuvas.",
@@ -77,7 +77,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Descubra as técnicas e histórias por trás do artesanato sertanejo: bordados, cerâmica, trabalhos em couro e muito mais.",
     descricaoCompleta: "O artesanato do Sertão do Pajeú é um patrimônio vivo que atravessa gerações. Cada peça carrega histórias, técnicas aprendidas com avós e uma visão de mundo única sobre a vida no semiárido. Os bordados de renda, as cerâmicas decorativas, os trabalhos em couro e as esculturas em madeira são expressões artísticas reconhecidas além das fronteiras do estado. Nesta experiência, você visita ateliês e conversa com artesãs e artesãos que mantêm essa tradição viva.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~5 min",
+    duracao: "~3 min",
     curiosidades: [
       "A renda renascença é uma técnica de origem portuguesa adaptada pelas mulheres do semiárido nordestino.",
       "Artesãos do Pajeú utilizam a palha de ouricuri, nativa da Caatinga, em chapéus e cestos tradicionais.",
@@ -93,7 +93,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Imergir na cultura do Pajeú é encontrar forró, repente, cangaço, São João e saberes que resistem ao tempo.",
     descricaoCompleta: "São José do Egito é conhecida como 'a terra dos poetas' e capital do repentismo nordestino. A cultura do Pajeú é uma tapeçaria rica: o forró pé-de-serra, o coco-de-roda, os cordéis, os festejos de São João, as procissões e as histórias do cangaço se entrelaçam com as práticas religiosas e com as festas comunitárias. Esta experiência imersiva registra momentos de celebração e memória viva do território.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~6 min",
+    duracao: "~3 min",
     curiosidades: [
       "São José do Egito sedia todos os anos o Festival de Repentistas, um dos maiores do Brasil.",
       "O cordel é uma literatura popular nordestina reconhecida como patrimônio imaterial da humanidade pela UNESCO.",
@@ -109,7 +109,7 @@ const EXPERIENCIAS = [
     descricaoCurta: "Entenda como a economia criativa, o comércio local e a agroindústria movem o Sertão do Pajeú e criam oportunidades.",
     descricaoCompleta: "A economia do Sertão do Pajeú vai muito além do que aparece à primeira vista. Além da agricultura familiar, a região conta com comércio ativo, artesanato com potencial exportador, turismo rural em crescimento e uma jovem geração empreendedora que enxerga no território oportunidades de negócios sustentáveis. Esta experiência foi produzida pelos estudantes do curso técnico em Administração da ETE Professora Célia Siqueira, que mapearam as dinâmicas econômicas locais com foco no potencial de desenvolvimento territorial.",
     videoYouTube: "o4ljE64LgaQ", /* ← SUBSTITUA pelo ID real do seu vídeo no YouTube */
-    duracao: "~7 min",
+    duracao: "~3 min",
     curiosidades: [
       "O Pajeú concentra uma das maiores produções de mel do semiárido pernambucano.",
       "A cajucultura gera renda para centenas de famílias na região durante a safra do caju.",
@@ -245,7 +245,7 @@ function renderInicio() {
             </p>
             <p>
               Nosso objetivo é usar a Realidade Virtual como ferramenta para registrar,
-              preservar e compartilhar o patrimônio do Sertão do Pajeú — da Caatinga
+              preservar e compartilhar o patrimônio do Sertão do Pajeú, da Caatinga
               ao artesanato, do Rio Pajeú à economia local.
             </p>
             <p>
