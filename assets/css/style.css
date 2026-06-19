@@ -9,17 +9,17 @@
 
 /* ---------- VARIÁVEIS DE DESIGN ---------- */
 :root {
-  /* Paleta Caatinga seca x verde */
-  --areia:        #D8CDB8;
-  --areia-escura: #A89878;
-  --terra:        #6B5D4F;
-  --terra-escura: #3D342A;
-  --verde:        #5C9457;
+  /* Paleta Rio Pajeú */
+  --areia:        #D4C5A9;
+  --areia-escura: #B5A382;
+  --terra:        #5B7C99;
+  --terra-escura: #38536B;
+  --verde:        #4A7C59;
   --azul:         #2C6E9B;
-  --ceu:          #EDE8DC;
-  --branco:       #FBFAF7;
-  --preto-suave:  #1A1611;
-  --cinza-texto:  #4A4035;
+  --ceu:          #E8F0F2;
+  --branco:       #FCFBF8;
+  --preto-suave:  #1E2A33;
+  --cinza-texto:  #4A5A63;
 
   /* Tipografia */
   --fonte-titulo: 'Playfair Display', Georgia, serif;
