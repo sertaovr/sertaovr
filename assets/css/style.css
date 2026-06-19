@@ -178,8 +178,14 @@ a {
 
 .btn-secundario {
   background: transparent;
-  color: var(--terra);
-  border-color: var(--terra);
+  color: var(--areia);
+  border-color: var(--areia);
+}
+
+.btn-secundario:hover {
+  background: var(--areia);
+  color: var(--terra-escura);
+
 }
 
 .btn-secundario:hover {
